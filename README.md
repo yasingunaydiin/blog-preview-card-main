@@ -23,12 +23,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - Solution URL: https://yasingunaydiin.github.io/blog-preview-card-main/
 
-## My process
-
 ### Built with
 
-
-### What I learned
+- font-family, color, background-color, margin, padding, border-radius, box-shadow, display, flex, media queries, web fonts, hover effects, 
 
 
 ## Author
