@@ -17,9 +17,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-<img width="1200" alt="screenshot 1" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/03380536-6e9d-4f70-9c2a-4271b51a04d7">
-<img width="1200" alt="screenshot 2" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/94817b91-2f18-45d4-b87e-5e84410acfe5">
-<img width="686" alt="screenshot 3" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/3b15e76d-866c-435c-8d82-906cffe5204c">
+<img width="900" alt="screenshot 1" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/03380536-6e9d-4f70-9c2a-4271b51a04d7">
+<img width="900" alt="screenshot 2" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/94817b91-2f18-45d4-b87e-5e84410acfe5">
+<img width="400" alt="screenshot 3" src="https://github.com/yasingunaydiin/blog-preview-card-main/assets/81875281/3b15e76d-866c-435c-8d82-906cffe5204c">
 
 
 ### Links
