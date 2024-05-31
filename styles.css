@@ -26,6 +26,12 @@ h1 {
     color: hsl(0, 0%, 7%);
     font-size: 24px;
     font-weight: 800;
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
 }
 
 p {
@@ -66,7 +72,7 @@ p {
     width: 32px;
     height: 32px;
     margin-right: 10px;
-    margin-top: 0px;
+    margin-left: 20px;
 }
 
 .topic {
@@ -97,10 +103,13 @@ p {
     }
     .card {
         max-width: 20rem;
-        max-height: 35rem;
+        max-height: 30rem;
     }
     .author-text, .published {
         font-size: 0.75rem; /* Adjust the value as needed */
+    }
+    img.illustration {
+        max-width: 17rem;
     }
    
 }
